@@ -2,7 +2,7 @@ Fun Fact Generator: Discover Fun Facts About Me! 🌟
 
 Welcome to the Fun Fact Generator! This web application is designed to share interesting, quirky, and fun facts about me in an engaging and interactive way. Explore this mini-project, get to know me better, and have fun along the way!
 
-🌐 Live Demo
+🌐 Live Demo.
 
 Check out the live site: Fun Fact Generator
 
